@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "github-markdown-css": "^4.0.0",
     "uuid": "^8.2.0"
   },
